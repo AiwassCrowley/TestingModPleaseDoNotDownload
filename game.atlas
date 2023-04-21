@@ -1,0 +1,22 @@
+NewNationIcons.png
+size: 1000, 750
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+NewNationIcons/Confederation of Minecraft
+	rotate: false
+	xy: 0, 0
+	size: 150, 150
+	orig: 150, 150
+	offset: 0, 0
+	index: -1
+	
+
+Terrain.png
+	rotate: false
+	xy: 0, 0
+	size: 32, 28
+	orig: 32, 28
+	offset: 0, 0
+	index: -1
