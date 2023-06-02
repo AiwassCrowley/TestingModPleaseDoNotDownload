@@ -9,7 +9,7 @@
 		"strength": 68,
 		"movement": 1,
 		"cost": 400,
-		//"requiredTech": "Archaeology"
+		"requiredTech": "Archaeology"
 		"civilopediaText": [
 			{"text": "An entity found by Minecraftians within the ancient ship which had carried their ancestors. These golems will help the Confederation in gaining a temporary advantage early on, but will prove less useful later on."}
 		]
