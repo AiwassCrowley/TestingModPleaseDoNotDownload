@@ -1,0 +1,13 @@
+[
+	
+	{
+		
+		"name": "Iron Golem",
+		"unitType": "Armored",
+		"uniqueTo": "Confederation of Minecraft",
+		"uniques": ["Ignores terrain cost"],
+		"movement": 1
+		
+	}
+	
+]

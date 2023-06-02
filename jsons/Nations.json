@@ -1,0 +1,33 @@
+[
+	
+	{
+		"name": "Confederation of Minecraft",
+		"leaderName": "Steve",
+		"adjective": ["Minecraftian"],
+		"startBias": ["OriginValley"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We are currently unsure where we are, it appears that our entire colonial fleet headed for the End have been stranded here.",
+		"startIntroPart2": "All units on deck! Scouts have detected other lifeforms within this dimension and we are currently unsure whether they are hostile. We are to secure resources to begin rebuilding our fleets and technologies, we must hurry before the night comes!",
+		
+		"declaringWar": "Hostiles detected! Launching a pre-emptive strike to eliminate targets!",
+		"attacked": "We are being attacked by hostiles! Scouts report that they are nothing like the monsters we are used to facing, prepare for war!",
+		"defeated": "This is bad! Evacuate all civilians, all soldiers are expected to fight to the death! Your sacrifices shall not be in vain!",
+		"introduction": "You... are nothing like any other civilisation we have encountered. What are these non-cubic features for?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "Why are you here?",
+		
+		"tradeRequest": "Hmm, hm hmmmm? (Greetings, would you like to trade?)",
+		
+		"outerColor": [146, 82, 26],
+		"innerColor": [231, 131, 44],
+		"favoredReligion": "Pluton Worship",
+		"uniqueName": "Crafting Mastery"
+		"uniques": ["Receive free [Great Engineer] when you discover [Writing]", "Provides a [Library] in your first [3] cities for free"],
+		"cities": ["Central Village", "Bastion", "Village", "Outpost", "Mansionville", "Temple Zone", "Minecraftia", "Minetia", "Dungeonis", 
+		"Stockholm", "Notchland", "Golden City", "Iglooholme", "Beacon Town", "Fleet Base Alpha", "Not-so-ancient City", "Cityblock", 
+		"Emerald City", "Farmisia", "Well Villages", "Cubic Mesa", "City of the Bones", "Netherlands"],
+	}	
+	
+]
