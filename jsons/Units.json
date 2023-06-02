@@ -5,8 +5,11 @@
 		"name": "Iron Golem",
 		"unitType": "Armored",
 		"uniqueTo": "Confederation of Minecraft",
-		"uniques": ["Ignores terrain cost"],
-		"movement": 1
+		"uniques": ["Ignores terrain cost", "Never appears as a Barbarian unit"],
+		"strength": 68,
+		"movement": 1,
+		"cost": 400,
+		"requiredTech": "Archaeology"
 		
 	}
 	
