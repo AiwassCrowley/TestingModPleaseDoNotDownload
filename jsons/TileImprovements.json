@@ -1,0 +1,18 @@
+[
+	
+	{
+		
+		"name": "Mob Farm",
+		"terrainsCanBeBuiltOn": ["Plains", "OriginValley", "Desert", "Flood plains", "Tundra", "Snow", "Coast", "Forest", "Hill"],
+		"turnsToBuild": 15,
+		"food": 2,
+		"techRequired": "Construction",
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]",
+		"[+1 Food] <after discovering [Engineering]>",
+		"[+1 Food] <after discovering [Physics]>",
+		"[+2 Food] <after discovering [Biology]>",
+		"[+2 Food] from [non-fresh water] tiles <before the []>"]
+		
+	}
+	
+]

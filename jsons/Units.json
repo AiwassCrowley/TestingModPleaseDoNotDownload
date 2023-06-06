@@ -14,6 +14,15 @@
 			{"text": "An entity built by Minecraftians with reference to blueprints found within the ancient ship which had carried their ancestors. These golems will help the Confederation in gaining a temporary advantage early on, but will prove less useful as technology progresses."}
 		]
 		
+	},
+	
+	{
+		
+		"name": "Builder",
+		"unitType": "Civilian",
+		"uniqueTo": "Confederation of Minecraft",
+		"uniques": ["Cannot enter ocean tiles", "Can speed up construction of a building", "Cannot attack", "Unable to capture cities", "Never appears as a Barbarian unit"]
+		
 	}
 	
 ]
