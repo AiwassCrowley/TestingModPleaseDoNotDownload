@@ -1,0 +1,12 @@
+[
+	//Ancient Era
+	//Column 1
+	{
+		"name": "Loom",
+		"maintenance": 1,
+		"hurryCostModifier": 20,
+		"cost": 20,
+		"requiredTech": "Art",
+		"uniques": ["Provides [1] [Clothing]"]
+	}
+]
