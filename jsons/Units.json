@@ -21,7 +21,7 @@
 		"name": "Builder",
 		"unitType": "Civilian",
 		"uniqueTo": "Confederation of Minecraft",
-		"uniques": ["Cannot enter ocean tiles", "Can speed up construction of a building", "Cannot attack", "Unable to capture cities", "Never appears as a Barbarian unit"]
+		"uniques": ["Cannot enter ocean tiles", "Can build [Mob Farm] improvements on tiles", "Can speed up construction of a building", "Cannot attack", "Unable to capture cities", "Never appears as a Barbarian unit"]
 		
 	}
 	
